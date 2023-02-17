@@ -33,3 +33,7 @@ main {
 #calculator:focus {
   outline: none;
 }
+
+#resultado {
+  color: #2e1;
+}
