@@ -13,6 +13,7 @@ function isNumber(value: unknown): value is number {
   }
 }
 
+// to not use Function, you can use libs like mathjs or string-math
 function evaluate(expression: string): number | null {
   try {
     if (expression.match(/[a-zA-Z&#$<>{}]/g)) throw new Error();
