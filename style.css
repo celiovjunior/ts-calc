@@ -36,4 +36,12 @@ main {
 
 #result {
   color: #2e1;
+  display: grid;
+
+  text-align: right;
+}
+
+#total {
+  align-self: end;
+  margin-top: 1.25rem;
 }
