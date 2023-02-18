@@ -7,7 +7,7 @@
 
 <p>Front-end project of a calculator website, inspired by Numi app, built with HTML, CSS and Typescript.</p>
 
-✌ [Click here to see the demo](https://celiovjunior.github.io/typescript-calc/) ✌
+✌ [Click here to see the demo](https://celiovjunior.github.io/ts-calc/) ✌
 
 ---
 
