@@ -44,4 +44,5 @@ main {
 #total {
   align-self: end;
   margin-top: 1.25rem;
+  cursor: pointer;
 }
