@@ -11,7 +11,7 @@
 
 ---
 
-## 🧲 Donwload
+## 🧲 Download
 
 <p>Before download the project, make sure you have Node.js and Git installed in your machine.</p>
 <p>Also, the commands below were ran in a git bash terminal.</p>
